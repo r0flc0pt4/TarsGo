@@ -1,4 +1,7 @@
 # Tarsgo  Document
+
+[![GuardRails badge](https://badges.production.guardrails.io/r0flc0pt4/TarsGo.svg)](https://www.guardrails.io)
+
 [点我查看中文版](README.zh.md)
 ## About
 - Tarsgo is high performance RPC framework in Golang programing language using the tars protocol.
